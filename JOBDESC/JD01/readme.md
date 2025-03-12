@@ -1,6 +1,6 @@
 # OPNSENSE Installation
 
-- MUHAMMAD ATH THORIQ KURNIA RAMADHAN
+- Muhammad Ath Thoriq Kurnia Ramadhan
 - 4332301013
 
 ## Objectives
