@@ -38,21 +38,36 @@ OPNsense is an open source, FreeBSD-based firewall and routing software develope
 5. Then, login as `installer` with password `opnsense`
 6. Select keymap, for this case, i use the default keymap
 7. Then choose the ZFS install [Why ZFS](https://www.reddit.com/r/PFSENSE/comments/gyq5x3/should_i_use_zfs_or_ufs_for_my_file_system/)
+
    ![InstallZFS](./images/install-zfs.png)
+
 8. Then for the Device Type, in this case i use stripe
+
    ![InstallStripe](./images/virtual-device-type.png)
+
 9. Then choose the disk
+
    ![InstallDisk](./images/disk.png)
+
 10. Lastly, format the disk
+
     ![DiskDestroy](./images/destroy.png)
+
 11. Then wait until the cloning process is completed.
 12. After that, i do change the password for the root user
+
     ![ChangeRootPassword](./images/change-pw.png)
+
 13. Then complete the install
+
     ![CompleteInstall](./images/complete-install.png)
+
 14. Reboot Now
+
     ![RebootNow](./images/last-reboot.png)
+
 15. Now, we can access the web UI
+
     ![WebUI](./images/access-web.png)
 
 ### Feedback Contact
