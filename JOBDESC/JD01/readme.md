@@ -28,6 +28,7 @@ OPNsense is an open source, FreeBSD-based firewall and routing software develope
    ![CreateVM1](./images/vmcreate1.png)
 
    Here's my system details
+
    ![CreateVM2](./images/machine-details.png)
 
 2. After we created the Virtual Machine, we need to connect the OPNSense ISO to the machine.
