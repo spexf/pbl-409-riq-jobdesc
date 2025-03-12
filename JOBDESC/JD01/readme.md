@@ -6,7 +6,6 @@
 ## Objectives
 
 - Install OPNSense
-- Configure
 
 ## What is OPNSense?
 
