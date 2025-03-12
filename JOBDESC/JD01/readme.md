@@ -70,7 +70,5 @@ OPNsense is an open source, FreeBSD-based firewall and routing software develope
 
     ![WebUI](./images/access-web.png)
 
-### Feedback Contact
-
 > [!NOTE]
 > if you have feedback for this report you can contact me via discord (athkr) or whatsapp
